@@ -1,5 +1,3 @@
-
-
 # Single-Cell Genomics: A Stepping Stone for Future Immunology Discoveries (A Review)
 
 ## Introduction
